@@ -36,6 +36,7 @@ vignettes/*.pdf
 *.utf8.md
 *.knit.md
 
+
 # R Environment Variables
 .Renviron
 
@@ -47,3 +48,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+#Python .venv
+.venv/
